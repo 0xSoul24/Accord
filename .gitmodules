@@ -1,6 +1,6 @@
-[submodule "libPhonograph"]
-	path = libPhonograph
-	url = https://github.com/AkaneTan/libPhonograph
+[submodule "libphonograph"]
+	path = libphonograph
+	url = git@github.com:0xSoul24/libphonograph.git
 [submodule "Cupertino"]
 	path = Cupertino
-	url = https://github.com/FoedusProgramme/Cupertino
+	url = git@github.com:0xSoul24/Cupertino.git
